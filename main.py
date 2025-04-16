@@ -17,5 +17,4 @@ if __name__ == '__main__':
 
     print_hi('Hello World 3 in team leader server')
 
-
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
